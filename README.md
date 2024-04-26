@@ -5,10 +5,10 @@ AtliQ Hardware is implementing data analytics through Power BI to make data-driv
 
 ## Technology Framework
 * SQL
-* POWER BI DESKTOP
-* EXCEL
-* DAX LANGUAGE
-* DAX STUDIO(for optimizing report)
+* PowerBI Desktop
+* Exel
+* DAX Language
+* DAX Studio(for optimizing report)
 
 ## PowerBI Techniques Acquired
 * Formulating calculated columns
@@ -44,4 +44,47 @@ In this project, we will import data from a MySQL database into Power BI using a
 * Data modeling is crucial as it serves as the foundation for reports. Visuals are created based on the data model.
 * Improper data modeling can have a significant impact on the overall performance of the report.
 * We have utilized the Snowfall data modeling method in this project.
+  
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/a6c7b66f-4f7b-413c-84c7-1365734ac82d)
+
+## Dashboard Design Process
+* Following the received mockups as requirements, the team will initiate the design of visuals and generate measures as necessary.
+
+## Home View
+In the Home view, all view buttons will be accessible. Users can navigate to specific view pages by clicking the corresponding buttons.
+* Info
+* Finance View
+* Sales View
+* Marketing View
+* Supply chain View
+* Executive View
+* Support
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/06b16227-a465-4dff-b72f-a6805ca90fdc)
+
+  ## Info View
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/30274a73-af38-4c5a-9d99-3a07747ca862)
+
+  ## Finance View
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/335c0218-792b-42f1-bf18-a5678cab93fb)
+
+  ## Sales View
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/a2da1efc-6ace-44a5-b55a-b2d75892ea4b)
+
+  ## Marketing View
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/63e127ce-c16a-48d2-a37a-d48f0be10145)
+
+  ## Supply Chain View
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/4c7fd831-53ab-477f-8547-4300e3f24b5d)
+
+    ## Executive View
+  ![image](https://github.com/lamoski/BI-360/assets/113639371/7a1c59fb-101d-4c0f-8795-c77c8cdaff68)
+
+If you are interested in obtaining the complete report file, feel free to contact me on [Linkedin](https://www.linkedin.com/in/olamide-bayo/).
+
+
+
+
+
+
+
 
