@@ -1,7 +1,7 @@
 # Business Insight 360
 ## Project Overview
 
-AtliQ Hardware is implementing data analytics through Power Bi to make data-driven decisions and surpass competitors. The project will provide insights on finance, sales, marketing, and supply chain to stakeholders. I completed the project by following the Codebasics Power Bi course, which you can find the link [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance).
+AtliQ Hardware is implementing data analytics through Power BI to make data-driven decisions and surpass competitors. The project will provide stakeholders with insights on finance, sales, marketing, and supply chain. I completed the project by following the Codebasics Power BI course, which you can find the link [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance).
 
 ## Technology Framework
 * SQL
@@ -28,3 +28,20 @@ AtliQ Hardware is implementing data analytics through Power Bi to make data-driv
 * Creating a Power BI app
 * Collaborating on workspaces and managing access permissions in Power BI services
 * And many more"
+
+## Background of the Company
+AltiQ Hardware has grown substantially in recent years, expanding its global presence. The company specializes in distributing computers and computer accessories through three different channels:
+* Retailers
+* Direct
+* Distributors
+
+Recently, the company incurred an unexpected loss due to opening a store in America. This decision was based on surveys, intuition, and some Excel analysis. Additionally, competitors of the company possess dedicated analytics teams to make data-driven decisions. Therefore, AltiQ Hardware has recognized the necessity of establishing its analytics team to gain insights and make informed decisions to thrive in the industry.
+
+## Data Import in Power BI
+In this project, we will import data from a MySQL database into Power BI using appropriate database access credentials.
+
+## Data Model
+* Data modeling is crucial as it serves as the foundation for reports. Visuals are created based on the data model.
+* Improper data modeling can have a significant impact on the overall performance of the report.
+* We have utilized the Snowfall data modeling method in this project.
+
